@@ -2,6 +2,10 @@
 
 This is a simple container for running the rabbitmq collectd plugin.
 
+Its on Dockerhub:
+
+    docker pull aqpeeb/rabbitmq-collectd
+
 ## Usage in a docker-compose file
 
 ```yaml
